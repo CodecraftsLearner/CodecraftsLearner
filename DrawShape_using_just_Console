@@ -1,0 +1,17 @@
+*/ simple program to print traingle shape using just console statement/*
+
+namespace Shravani
+{
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("    /|");
+            Console.WriteLine("   / |");
+            Console.WriteLine("  /  |");
+            Console.WriteLine(" /   |");
+            Console.WriteLine("/____|");
+            Console.ReadLine();
+        }
+    }
+}
